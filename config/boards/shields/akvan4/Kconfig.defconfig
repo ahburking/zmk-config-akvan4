@@ -3,4 +3,8 @@ if SHIELD_AKVAN4
 config ZMK_KEYBOARD_NAME
     default "akvan4"
 
+# Name the keyboard
+
+CONFIG_BT_DEVICE_NAME ="akvan4"
+
 endif
